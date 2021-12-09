@@ -4,4 +4,4 @@ To add your own representation, add it to the 'calculation' list in the form: ("
 There are two variables to use: p and i. 
 
 ## Examples of equations 
-![test]()
+![test](https://github.com/ZetaMap/magic_draw/blob/main/preview/preview11.png)
